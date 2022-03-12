@@ -1,0 +1,26 @@
+body{
+  margin: 20px;
+  background-color: chocolate;
+ }
+
+
+ .same{
+   margin-top: 20px;
+   height: 300px;
+   width: 300px;
+   border-color: white;
+   border-radius: 30px;
+   border-style: solid;
+ }
+
+ .li{
+   font-style: normal;
+   font-size: 23px;
+   font-weight: bold;
+ }
+
+.logo{
+width: 50px;
+border-radius: 10px;
+margin: 10px;
+}
